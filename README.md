@@ -1,6 +1,6 @@
-<h1>Financial Rag Agent Using ReACT Agent and Langchain.</h1>
-<p align="right">Submitted to MSADS Uchicago Summer Hackathon.</p>
+<h1>R2Gen2</h1>
+<p align="right">Master's Thesis Submitted to University of Chicago Master's in Applied Data Science</p>
 <br><br>
-<h2>Observe as the agent breaks down complex tasks into smaller ones and uses Chain Of Thought to solve them!</h2>
+<h2>R2Gen2 using Vision Models for Report Generation and Feature Extraction!</h2>
 <br>
 <img src="https://github.com/aayushv001/R2Gen2/blob/main/demo.gif"/>
