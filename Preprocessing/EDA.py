@@ -6,10 +6,9 @@ import time
 import json
 import pickle
 client = OpenAI(
-    organization="org-vsHBie6lZ1iLkeDhQrHgkcY9",
-    project="proj_ZAfE6sAFBepaaJ2tTpV6A0iS",
-    api_key="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"
-    )
+    organization="",
+    project="",
+    api_key = "")
 class report_classification(BaseModel):
     report_class: int
 
