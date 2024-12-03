@@ -3,4 +3,4 @@
 <br><br>
 <h2>R2Gen2 using Vision Models for Report Generation and Feature Extraction!</h2>
 <br>
-<img src="https://github.com/aayushv001/R2Gen2/blob/main/demo.gif"/>
+<img src="https://github.com/aayushv001/R2Gen2/blob/main/Demo.gif"/>
